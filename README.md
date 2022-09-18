@@ -1,0 +1,2 @@
+# Data Visualization & Reports
+Dump of some reports I've done in university that include data visualization. Most were done in either markdown or latex with data visuals done in either R (ggplot2) or Python (Matplotlib/Seaborn).
